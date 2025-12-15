@@ -11,7 +11,7 @@ Me chamo Matheus Lima da Costa, tenho 25 anos e sou natural do Rio de Janeiro. S
         <img 
             alt="github views" 
             title="Vizualizações no Github" 
-            src="https://img.shields.io/github/watchers/mtheuslcosta/mtheuslcosta?style=for-the-badge&logo=github&logoColor=white&label=VISITORS&labelColor=611885&color=8F23C4
+            src="https://img.shields.io/github/watchers/mtheuslcosta/mtheuslcosta?style=for-the-badge&logo=github&logoColor=white&label=github viewsS&labelColor=611885&color=8F23C4
             "
         />
    <a href="https://github.com/mtheuslcosta?tab=followers">
