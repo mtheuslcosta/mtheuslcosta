@@ -2,7 +2,7 @@
 
 **`Developer Analytics`**
 
-Me chamo Matheus Lima da Costa, tenho 25 anos e sou natural do Rio de Janeiro. Sou graduando da UFRRJ no curso de Economia, com o curso técnico em informática. Fui estagiário da Comissão de Valores Mobiliários (CVM) durante pouco mais de 1 ano. Sou entusiasta de tecnologia e big data. Busco oportunidade para crescer e agregar valor na área de dados com bastante foco, dedicação e trabalho duro, além de me adaptar bem a novos desafios.
+Me chamo Matheus Lima da Costa, tenho 26 anos e sou natural do Rio de Janeiro. Sou graduando da UFRRJ no curso de Economia, com o curso técnico em informática. Fui estagiário da Comissão de Valores Mobiliários (CVM) durante pouco mais de 1 ano. Sou entusiasta de tecnologia e big data. Busco oportunidade para crescer e agregar valor na área de dados com bastante foco, dedicação e trabalho duro, além de me adaptar bem a novos desafios.
 
 
 <p align="left">
